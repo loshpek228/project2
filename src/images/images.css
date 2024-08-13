@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.background-image{
+    width: 1540px;
+    height: 650px;
+    object-fit: cover;
+    display: flex;
+}
